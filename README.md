@@ -1,4 +1,4 @@
-# kawang
+# hi! :wave: a little about me :boy:
 A passionate technologist with a goal to become a part of the DevOps. I'm a t(h)inker(er) whos looking to understand the world just a little bit more. By learning to understand things at its root, we can find ways to improve ourselves and the world we live in.
 
 As a tinkerer, I've spent time reading code, modifying code and understanding (and somewhat successfully grasp) concepts in shell scripting, python scripting and basic hardware aspects to utilization of electronic switch building for GPIO of Raspberry Pi and Arduino-based devices. Being an immigrant, the hardest pill to swallow was spending money when you didn't need to. After spending money the second time to fix a computer problem, I found myself vowing that I would never spend money for IT support again, from then on, I played around with every piece of technology that would allow me to learn its secrets.
