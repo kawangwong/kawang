@@ -1,10 +1,10 @@
 # hi! :wave: a little about me :boy:
-A passionate technologist with a goal to become a part of the DevOps. I'm a t(h)inker(er) whos looking to understand the world just a little bit more. By learning to understand things at its root, we can find ways to improve ourselves and the world we live in.
-
-As a tinkerer, I've spent time reading code, modifying code and understanding concepts in shell scripting, python scripting and from basic computer hardware to utilization of electronic switch building IoT devices including GPIO of Raspberry Pi and Arduino-based devices.
+A passionate technologist with a goal to become a part of the DevOps community.
 
 I'm a self taught Linux user thanks to the Raspberry Pi Foundation and the large swath of the internet community. Through my Raspberry Pis, I learned how to create small scaled versions of dpeloyments including home VPNs using PPTP, OpenVPN, DHCP server management and DNS servers. I've worked on deploying open source projects including the Magic Mirror and virtualization software such as Docker for personal deployments of software such as Nginx for reverse proxies, Plex Media Servers for home media libraries :tv:, Nextcloud:cloud: and VPN Client services for secure access to my personal content:closed_lock_with_key:. In this journey, I've learned networking concepts and have delved into the foundations of it such as OSI layering, CIDR block notations, port forwarding rules and subnetting.
 
 I have a passion for understanding and implementing ideas for assistive technology. Because of this, I've also worked on projects to build something to improve the lives of individuals with impairments either through meaningful therapeutic experiences or [compensatory assistive device](https://github.com/kawangwong/handtracking_mouse). This includes small projects using Arduinos for creating switches for engagement with computer:computer: interfaces for control of video games :video_game: or even connecting consumer grade technologies with existing IoT infrastructure.
 
 In learning all of this, I've also contributed to writing a blog post for a friend, which includes an accessible way for consumers to create their own Telehealth set up, which was praised by colleagues and interest groups for helping therapists set up their home [infrastructure for telehealth](https://otvijay.com/2020/08/23/comprehensive-guide-to-setup-for-telehealth/)
+
+Last, I am a big fan of listening to off-topic podcasts such as [Planet Money](https://www.npr.org/podcasts/510289/planet-money/), [How I Built This](https://www.npr.org/podcasts/510313/how-i-built-this) with Guy Raz and [Life Kit](https://www.npr.org/lifekit). If you have any suggestions of things you'd like to share, send it to my way!
