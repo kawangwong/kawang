@@ -8,3 +8,8 @@ I have a passion for understanding and implementing ideas for assistive technolo
 In learning all of this, I've also contributed to writing a blog post for a friend, which includes an accessible way for consumers to create their own Telehealth set up, which was praised by colleagues and interest groups for helping therapists set up their home 👨‍⚕️[infrastructure for telehealth](https://otvijay.com/2020/08/23/comprehensive-guide-to-setup-for-telehealth/)
 
 Last, I am a big fan of listening to off-topic podcasts such as [Shortwave](https://www.npr.org/podcasts/510351/short-wave)🧪 [Planet Money:dollar:](https://www.npr.org/podcasts/510289/planet-money/), [How I Built This:hammer:](https://www.npr.org/podcasts/510313/how-i-built-this) with Guy Raz and [Life Kit:school_satchel:](https://www.npr.org/lifekit). If you have any suggestions of things you'd like to share, send it to my way!
+
+
+Currently Working on as of 11/05/2021:
+Automation scripting of Docker deployments.
+Javascript/Python Application for finding out range of motion.
