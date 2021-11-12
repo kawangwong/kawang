@@ -18,5 +18,4 @@ Last, I am a big fan of listening to off-topic podcasts such as [Shortwave](http
 Currently Working on as of 11/05/2021:
 
 - Automation scripting of Docker deployments.
-
 - MediaPipe's Pose Modules for a movement game.
