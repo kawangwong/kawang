@@ -3,10 +3,10 @@ A passionate technologist with a goal to become a part of the DevOps community.
 
 I'm a self-taught Linux user and it all began with a Raspberry Pi. Through my Pi, I learned how to create small-scaled versions of deployments including VPNs, web servers and virtualized applications. I've worked on deploying open source projects including the Magic Mirror and using virtualization software such as Docker for deployments of applications such as:
 
-- Nginx for reverse proxies
-- Plex Media Servers :tv:
-- Nextcloud:cloud:
-- VPN Server for secure access to my personal content:closed_lock_with_key:.
+- [Nginx for reverse proxies](https://www.nginx.com/)
+- [Plex Media Servers :tv:](https://www.plex.tv/)
+- [Nextcloud:cloud:](https://nextcloud.com/)
+- [VPN Server for secure access to my personal content:closed_lock_with_key:](https://openvpn.net/)
 
 I have a passion for understanding and implementing ideas for assistive technology. Because of this, I've also began learning to program in Python, which resulted in the creation of projects that could be used to improve the lives of individuals with impairments either through meaningful therapeutic experiences or [compensatory assistive device](https://github.com/kawangwong/handtracking_mouse). Included in these projects are the use of Arduinos for creating switches for engagement with computer:computer: controlling video games :video_game: or even existing IoT infrastructure, such as switches to send emails, to be used as sensors for movement or even distance to affect the internet-space🌎.
 
