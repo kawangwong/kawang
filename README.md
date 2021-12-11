@@ -22,7 +22,7 @@ Last, I am a big fan of listening to off-topic podcasts such as
 If you have any suggestions of things you'd like to share, send it to my way!
 
 
-Currently Working on as of 1211/1:
+Currently Working on as of 12/11/2021:
 
 - Terraform scripting and Ansible
 - Arduino Scripts for Uno devices
