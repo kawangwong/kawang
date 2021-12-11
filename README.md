@@ -14,7 +14,7 @@ In learning all of this, I've also contributed to writing a blog post, which inc
 
 Last, I am a big fan of listening to off-topic podcasts such as
 
-- [Shortwave](https://www.npr.org/podcasts/510351/short-wave)🧪
+- [Short Wave](https://www.npr.org/podcasts/510351/short-wave)🧪
 - [Planet Money:dollar:](https://www.npr.org/podcasts/510289/planet-money/)
 - [How I Built This:hammer:](https://www.npr.org/podcasts/510313/how-i-built-this) with Guy Raz
 - [Life Kit:school_satchel:](https://www.npr.org/lifekit).
