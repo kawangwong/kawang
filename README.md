@@ -22,7 +22,8 @@ Last, I am a big fan of listening to off-topic podcasts such as
 If you have any suggestions of things you'd like to share, send it to my way!
 
 
-Currently Working on as of 11/05/2021:
+Currently Working on as of 1211/1:
 
-- Automation scripting of Docker deployments.
-- MediaPipe's Pose Modules for a movement game.
+- Terraform scripting and Ansible
+- Arduino Scripts for Uno devices
+- FInal Kura Project
